@@ -23,6 +23,14 @@ This project showcases a 45-minute interactive training session designed to intr
 | [Mentimeter Participation Link](https://www.menti.com/al9qi5s7e6ku) | Interactive pre/post training polls for use during the session |
 
 ---
+## 🧪 Sample Activity: ChatGPT Prompt Challenge
+
+Participants are asked to:
+- Write a prompt for ChatGPT to support a task from their daily work (e.g., drafting an email, summarizing feedback)
+- Test the prompt (or review examples)
+- Share and reflect on potential uses and risks
+
+---
 
 ## ⚙️ Power Automate Demo Included
 
@@ -34,15 +42,6 @@ This project showcases a 45-minute interactive training session designed to intr
 - **Result:** Automatically send a formatted summary email to a recipient (e.g., staff member or admin)
 
 This demo showcases how automation can reduce manual admin work — perfect for support, operations, or student services teams.
-
----
-
-## 🧪 Sample Activity: ChatGPT Prompt Challenge
-
-Participants are asked to:
-- Write a prompt for ChatGPT to support a task from their daily work (e.g., drafting an email, summarizing feedback)
-- Test the prompt (or review examples)
-- Share and reflect on potential uses and risks
 
 ---
 
@@ -83,7 +82,6 @@ This training was created to showcase my skills in:
 
 ---
 
-## ✉️ Author
+## ✉️ Contact
 
-**[Your Name]**  
-[LinkedIn] • [Email] • [Website or Portfolio Link]  
+For questions or collaboration, reach out at [daphne.danaraj@gmail.com].

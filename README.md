@@ -18,7 +18,7 @@ This project showcases a 45-minute interactive training session designed to intr
 | File/Folder | Description |
 |-------------|-------------|
 | `training-plan.pdf` | A detailed agenda of the 45-minute session, with learning objectives, timing, and segment breakdown |
-| `slides/` | PDF and editable PowerPoint of the full training slide deck |
+| `slides` | PDF and editable PowerPoint of the full training slide deck |
 | `facilitator-guide.pdf` | Step-by-step guide for delivering the session, including talking points, prompts, and timing suggestions |
 | [Mentimeter Participation Link](https://www.menti.com/al9qi5s7e6ku) | Interactive pre/post training polls for use during the session |
 
